@@ -1,5 +1,7 @@
 # EXCEL BASICO
 
+[Version en notion](https://www.notion.so/EXCEL-BASICO-0c6bae6d2bca4ef096797606efab8b6d) ![notion](images_Excel/notion.PNG)
+
 Comandos para agilizar tu trabajo en Excel:
 
 ![Untitled](images_Excel/Untitled.png)
